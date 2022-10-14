@@ -7,6 +7,5 @@ public class Ejercicio4 {
         var fresa = "1";
         var $money$ = "elefante";
         var Esternocleidomastoideo = 1.84;
-        var -pito = 78;
     }
 }
