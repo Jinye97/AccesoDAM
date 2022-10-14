@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Ejercicio6 {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Introduce tu nombre");
-        String nombre = scan.nextLine();
+        String nombre = scanner.nextLine();
         System.out.println("Introduce tu apellido");
-        String apellido = scan.nextLine();
+        String apellido = scanner.nextLine();
         System.out.println("Hola " + nombre + " " + apellido);
     }
 }
